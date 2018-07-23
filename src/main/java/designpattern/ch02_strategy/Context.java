@@ -1,6 +1,4 @@
-package designpattern.ch03_strategy;
-
-import designpattern.ch10_TemplateMethod.ConcreteClassB;
+package designpattern.ch02_strategy;
 
 /**
  * Created by song on 2018/7/23.

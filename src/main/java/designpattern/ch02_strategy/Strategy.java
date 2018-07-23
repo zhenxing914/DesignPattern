@@ -1,4 +1,4 @@
-package designpattern.ch03_strategy;
+package designpattern.ch02_strategy;
 
 /**
  * Created by song on 2018/7/23.
