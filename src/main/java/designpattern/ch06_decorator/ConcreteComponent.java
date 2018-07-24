@@ -1,4 +1,4 @@
-package designpattern.ch07_decorator;
+package designpattern.ch06_decorator;
 
 
 /**

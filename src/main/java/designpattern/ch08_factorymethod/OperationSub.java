@@ -1,4 +1,4 @@
-package designpattern.ch8_factorymethod;
+package designpattern.ch08_factorymethod;
 
 
 /**

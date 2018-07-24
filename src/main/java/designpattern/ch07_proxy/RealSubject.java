@@ -1,4 +1,4 @@
-package designpattern.ch7_proxy;
+package designpattern.ch07_proxy;
 
 /**
  * Created by song on 2018/7/23.
